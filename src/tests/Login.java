@@ -7,5 +7,6 @@ public class Login {
         System.out.println("this is a change test for Git");
         //buraya ekleme yaptım
         //bir daha ekleme yaptım
+        //bu da son olsun
     }
 }
